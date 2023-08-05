@@ -55,8 +55,8 @@ FROM PopvsVac
 ORDER BY Vaccination_percentage DESC
 
 -- Using Temp Table to perform Calculation on Partition By in previous query
-DROP TABLE IF EXISTS #PercentPopulationVaccinated
-CREATE TABLE #PercentPopulationVaccinated
+DROP TABLE IF EXISTS PercentPopulationVaccinated
+CREATE TABLE PercentPopulationVaccinated
 (
 Continent nvarchar(255),
 Location nvarchar(255),
