@@ -1,0 +1,2 @@
+# Covid19-Data_Exploration----SQL
+In my COVID-19 data exploration project, I used SQL to analyze and derive insights from two datasets: 'CovidDeaths' and 'CovidVaccinations.' I examined key metrics, including total cases, deaths, and population, and calculated death and infection rates. I identified high-risk regions and assessed vaccination progress. I employed SQL techniques like joins, CTEs, temporary tables, and view creation. This project showcases my SQL skills and ability to extract meaningful insights from complex data, valuable for data-driven decision-making.
